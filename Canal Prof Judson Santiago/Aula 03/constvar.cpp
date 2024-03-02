@@ -11,8 +11,6 @@ int main()
   int num = 0x1E; // tipo inteiro
 
   cout << "Dez letras " << ch;
-  cout << "têm " << num << " pernas." << endl;
-
   return 0;
 }
 
